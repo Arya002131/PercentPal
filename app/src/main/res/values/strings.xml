@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PercentPal</string>
+    <string name="originalprice">"dollar "</string>
+    <string name="originalPrice">Original price</string>
+    <string name="Percent">"Percent of discount "</string>
+    <string name="button1">Calculate</string>
+    <string name="textview1">Discounted price</string>
+    <string name="discounted_price_format">Discounted Price: $%.2f</string>
+</resources>
